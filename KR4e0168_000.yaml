@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0168/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0168_WYG_000-1a, image: WYG1269/WYG1269-0001a.png}
+body:
+  text: 鄭少谷集别集類五明提要臣等謹案鄭少谷集二十五卷明鄭善夫撰善夫字繼之閩縣人𢎞治十八年進士授户部主事改禮部以建言廷杖尋乞歸用薦起南京刑部改吏部郎中事蹟詳明史文苑傳善夫在𢎞治間不襲何李緒論别開生面盤空硬語往往氣過其詞雖源出少陵實于山谷為近集中感時之作激昻慷慨寄托頗深或病其時非天寶地逺拾遺為無病而呻然正德時奄豎內訌盜賊外作詩人蒿目未可謂之無因朱彝尊靜志居詩話云少谷詩有獨立不遷之概當時孫鄭並稱孫非鄭敵朱鄭並稱朱非鄭匹孫謂孫一元朱謂朱應登也今以二家之集參觀彞尊所論為允矣乾隆四十六年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:c96c6115591845c31c14cd28034fc95518dba4a123202d853643811dbba0888e
+metadata:
+  title: 少谷集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:23:38.767734'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0168/KR4e0168_000.txt
+hash: sha256:8b21f3992005cc068d7cc4b7a13bf5addc69f025e63a1d3f075c08ed75d0b7c5
