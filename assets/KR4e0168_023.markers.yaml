@@ -1162,6 +1162,7 @@ markers:
   - {type: line-break, offset: 4415, content: '', id: KR4e0168_WYG_023-14b04}
   - {type: indent, offset: 4415, content: 　, id: KR4e0168_krp_023-bkkind15}
   - {type: punctuation, offset: 4415, content: (, id: KR4e0168_krp_023-bkkpn1}
+  - {type: voice, offset: 4415, length: 21, name: note, id: n1}
   - {type: punctuation, offset: 4435, content: /, id: KR4e0168_krp_023-bkkpn2}
   - {type: punctuation, offset: 4436, content: ), id: KR4e0168_krp_023-bkkpn3}
   - {type: 'kr:newline', offset: 4436, content: '
@@ -1329,6 +1330,7 @@ markers:
       ', id: KR4e0168_krp_023-bkkkrnewl283}
   - {type: line-break, offset: 5080, content: '', id: KR4e0168_WYG_023-16b05}
   - {type: punctuation, offset: 5100, content: (, id: KR4e0168_krp_023-bkkpn4}
+  - {type: voice, offset: 5100, length: 17, name: note, id: n2}
   - {type: punctuation, offset: 5101, content: /, id: KR4e0168_krp_023-bkkpn5}
   - {type: punctuation, offset: 5102, content: ), id: KR4e0168_krp_023-bkkpn6}
   - {type: 'kr:newline', offset: 5102, content: '
@@ -1491,6 +1493,7 @@ markers:
   - {type: line-break, offset: 5590, content: '', id: KR4e0168_WYG_023-18b02}
   - {type: indent, offset: 5590, content: 　, id: KR4e0168_krp_023-bkkind25}
   - {type: punctuation, offset: 5590, content: (, id: KR4e0168_krp_023-bkkpn10}
+  - {type: voice, offset: 5590, length: 30, name: note, id: n3}
   - {type: substitution, offset: 5604, original: 郷, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19672}}
   - {type: punctuation, offset: 5610, content: /, id: KR4e0168_krp_023-bkkpn11}
   - {type: punctuation, offset: 5620, content: ), id: KR4e0168_krp_023-bkkpn12}
@@ -1874,4 +1877,4 @@ markers:
 
       ', id: KR4e0168_krp_023-bkkkrnewl395}
   back: []
-hash: sha256:ba20fc80ac0063a67a9a967829f71c6a1e78c8eb841ee4ba8ec3a59f830767ad
+hash: sha256:d09e7e4f28e4041943acd1d4c664d301d942d79dc5cda20852c68b3900a45bb9
